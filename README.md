@@ -13,7 +13,7 @@ To colorize console output (in the debugging stage) I also used https://termcolo
 
 The algorithm to generate each game is taken from https://www.linusakesson.net/software/freecell.php, with very minor modifications. Thanks!
 
-There is a makefile included, the program doesn't require any extra libraries other than those installed with Gtkmm. I compiled and tested it in Ubuntu 18.04 Mate, it should work work everywhere else.
+There is a makefile included, the program doesn't require any extra libraries other than those installed with Gtkmm. I compiled and tested it on Ubuntu 18.04 Mate, it should work everywhere else.
 
 The license terms are: use it however you want, it's completely free.
 
