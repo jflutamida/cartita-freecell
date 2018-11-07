@@ -1,7 +1,7 @@
 # cartita-freecell
 A freecell card game using Microsoft's game numbering system. Written in C++ and Gtkmm.
 
-The UI is keyboard driven (no mouse support yet) with the commands similar as those implemented in the legendary FCPro Windows game: 1 to 8 for columns, A to D for the four freecells, H for home. You move the last card in the third column from the left to, say, freecell C, by typing "3C". Or you move it to column 8 by typing "38". It's easy and intuitive. Backspace undoes, Tab redoes, Esc deselects previously selected card and you can scale the cards using + and -.
+The UI is keyboard driven (no mouse support yet) with the commands similar to those implemented in the legendary FCPro Windows game (http://www.solitairelaboratory.com/fcpro.html): 1 to 8 for columns, A to D for the four freecells, H for home. You move the last card in the third column from the left to, say, freecell C, by typing "3C". Or you move it to column 8 by typing "38". It's easy and intuitive. Backspace undoes, Tab redoes, Esc deselects previously selected card and you can scale the cards using + and -.
 
 To select a game, just right click anywhere. You'll be presented with a very minimalistic menu!
 
