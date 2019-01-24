@@ -17,4 +17,4 @@ There is a makefile included, the program doesn't require any extra libraries ot
 
 The license terms are: use it however you want, it's completely free.
 
-If you have questions, don't doubt to ask: jflutamida@gmail.com
+If you have questions, don't doubt to ask: jorgitus.none@gmail.com
